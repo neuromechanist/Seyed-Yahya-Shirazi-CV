@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1603586303 "c:/Users/aftab/Documents/_tex-repo/Seyed-Yahya-Shirazi-CV/seyed-CV.tex" "c:/Users/aftab/Documents/_tex-repo/Seyed-Yahya-Shirazi-CV/seyed-CV.pdf" "seyed-CV" 1603586305
+["pdflatex"] 1603588962 "c:/Users/aftab/Documents/_tex-repo/Seyed-Yahya-Shirazi-CV/seyed-CV.tex" "c:/Users/aftab/Documents/_tex-repo/Seyed-Yahya-Shirazi-CV/seyed-CV.pdf" "seyed-CV" 1603588964
   "c:/Users/aftab/Documents/_tex-repo/Seyed-Yahya-Shirazi-CV/seyed-CV.aux" 1603586252 9 a94a2480d3289e625eea47cd1b285758 ""
-  "c:/Users/aftab/Documents/_tex-repo/Seyed-Yahya-Shirazi-CV/seyed-CV.tex" 1603586302 13214 2a0cb09aa4c80c9b94296b0b2f6d1857 ""
+  "c:/Users/aftab/Documents/_tex-repo/Seyed-Yahya-Shirazi-CV/seyed-CV.tex" 1603588961 14372 b85a68bfc16c0e0979f45f59dfa33e4a ""
   "c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1603544281 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1603544684 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2020/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1603544499 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -9,11 +9,13 @@
   "c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1603544275 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1603544275 1288 655e228510b4c2a1abe905c368440826 ""
   "c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsl10.tfm" 1603544275 1508 efecb4a315fe0975509670a272d75ef5 ""
+  "c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1603544275 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
   "c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1603544023 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1603544023 32080 340ef9bf63678554ee606688e7b5339d ""
   "c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1603544023 35752 024fb6c41858982481f6968b5fc26508 ""
   "c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1603544023 32762 7fee39e011c23b3589931effd97b9702 ""
   "c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb" 1603544023 35022 e40946b20bfdcd1099eafb2bcd9f25dd ""
+  "c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1603544023 37944 359e864bd06cde3b1cf57bb20757fb06 ""
   "c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb" 1603544281 138258 6525c253f16cededa14c7fd0da7f67b2 ""
   "c:/texlive/2020/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1603544059 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "c:/texlive/2020/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty" 1603544169 40635 c40361e206be584d448876bba8a64a3b ""
@@ -52,9 +54,9 @@
   "c:/texlive/2020/texmf.cnf" 1603546261 673 4ae7b2f49cee444c5343a45b5d0f169c ""
   "res.cls" 1603585992 25061 458754e7f62df4fd329a6e2b469a475f ""
   "seyed-CV.aux" 1603586252 9 a94a2480d3289e625eea47cd1b285758 ""
-  "seyed-CV.tex" 1603586302 13214 2a0cb09aa4c80c9b94296b0b2f6d1857 ""
+  "seyed-CV.tex" 1603588961 14372 b85a68bfc16c0e0979f45f59dfa33e4a ""
   (generated)
   "seyed-CV.log"
-  "c:/Users/aftab/Documents/_tex-repo/Seyed-Yahya-Shirazi-CV/seyed-CV.log"
   "seyed-CV.pdf"
+  "c:/Users/aftab/Documents/_tex-repo/Seyed-Yahya-Shirazi-CV/seyed-CV.log"
   "c:/Users/aftab/Documents/_tex-repo/Seyed-Yahya-Shirazi-CV/seyed-CV.pdf"
